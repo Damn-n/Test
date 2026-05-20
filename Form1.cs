@@ -97,7 +97,10 @@ namespace Test
 
             txtbutton.Text = originalTextButton1;
             colorbutton.Text = originalTextButton2;
-            fontbutton.Text = originalTextButton3;v
+            fontbutton.Text = originalTextButton3;
+
+            // si :v
+
            
         }
     }
